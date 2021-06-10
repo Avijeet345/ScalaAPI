@@ -1,0 +1,42 @@
+[
+  {
+    "jobId": "1",
+    "category": "Engineering",
+    "title": "Software Engineer",
+    "minExperience": 1,
+    "tags": [
+      "Software","Engineer","Technical"
+    ],
+    "valid": true
+  },
+  {
+    "jobId": "2",
+    "category": "Management",
+    "title": "Manager",
+    "minExperience": 1,
+    "tags": [
+      "Manager","Non-Technical"
+    ],
+    "valid": true
+  },
+  {
+    "jobId": "3",
+    "category": "Engineering",
+    "title": "Software Development Engineer",
+    "minExperience": 3,
+    "tags": [
+      "Software","Engineer","Technical","Developer"
+    ],
+    "valid": true
+  },
+  {
+    "jobId": "4",
+    "category": "Management",
+    "title": "Manager Product",
+    "minExperience": 4,
+    "tags": [
+      "Product","Manager","Technical"
+    ],
+    "valid": true
+  }
+]

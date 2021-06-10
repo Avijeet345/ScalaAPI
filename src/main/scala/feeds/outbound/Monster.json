@@ -1,0 +1,25 @@
+[
+  {
+    "jobId":"2",
+    "category":"Management",
+    "title":"Manager",
+    "minExperience":1,
+    "tags":[
+      "Manager",
+      "Non-Technical"
+    ],
+    "valid":true
+  },
+  {
+    "jobId":"4",
+    "category":"Management",
+    "title":"Manager Product",
+    "minExperience":4,
+    "tags":[
+      "Product",
+      "Manager",
+      "Technical"
+    ],
+    "valid":true
+  }
+]
